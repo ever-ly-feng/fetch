@@ -25,7 +25,7 @@ Before running the Flask app, ensure you have the following installed:
 ## Running the App
 1. Clone the Repository:
    ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/ever-ly-feng/fetch.git)
     ```
 2. Navigate to the Project Directory:
     ```bash
