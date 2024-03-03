@@ -27,12 +27,10 @@ Before running the Flask app, ensure you have the following installed:
    ```bash
     git clone https://github.com/ever-ly-feng/fetch.git
     ```
-2. Navigate to the Project Directory:
-    ```bash
-    cd flask-receipts-app
+2. Navigate to the Project Directory
    
 3. Run the Flask App:
     ```bash
-    python app.py
+    python main.py
    ```
     This will start the Flask development server, and you should see output indicating that the server is running.
